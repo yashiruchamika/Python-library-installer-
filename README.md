@@ -1,2 +1,2 @@
-# Python-library-installer-
+# Python-library-installer
 
